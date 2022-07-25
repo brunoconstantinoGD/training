@@ -14,6 +14,7 @@ git branch - exibe branches disponíveis
 git branch "nome-branch-nova" - criar nova branch
 git checkout "nome-da-branch" - acessa a branch especificada
 * git checkout -b "nome-branch-nova" - cria  e acessa uma branch = git branch + checkout
+git push origin "nome-branch"
 
 
 cd [nomedapasta]/ - entra na pastas
