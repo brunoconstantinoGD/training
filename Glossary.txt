@@ -1,0 +1,12 @@
+Glossary
+
+Git-Bash commands:
+
+git init - inicia a execução do repositório
+git status - indica se tem modificações não salvas
+git add --[nomedoarquivo] - adicionaos arquivos na staging area (não cria a versão)
+
+
+cd [nomedapasta]/ - entra na pastas
+touch - cria arquivos
+mkdir - cria pastas
