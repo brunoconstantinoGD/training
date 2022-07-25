@@ -4,7 +4,12 @@ Git-Bash commands:
 
 git init - inicia a execução do repositório
 git status - indica se tem modificações não salvas
-git add --[nomedoarquivo] - adicionaos arquivos na staging area (não cria a versão)
+git add [nomedoarquivo] - adicionaos arquivos na staging area (não cria a versão)
+* git add --all - adiciona todos os arquivos de todas as pastas modificadas
+* git add . - adiciona todos arquivos na pasta atual
+git commit -m "[resumo das modificações para serem commitadas]"- (não esquecer do '-m' // não esquecer das aspas para o resumo de modificaçoes)
+* esc esc q: para 
+git log - mostra os logs de commits
 
 
 cd [nomedapasta]/ - entra na pastas
