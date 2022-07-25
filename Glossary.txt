@@ -1,0 +1,21 @@
+Glossary
+
+Git-Bash commands:
+
+git init - inicia a execução do repositório
+git status - indica se tem modificações não salvas
+git add [nomedoarquivo] - adicionaos arquivos na staging area (não cria a versão)
+* git add --all - adiciona todos os arquivos de todas as pastas modificadas
+* git add . - adiciona todos arquivos na pasta atual
+git commit -m "[resumo das modificações para serem commitadas]"- (não esquecer do '-m' // não esquecer das aspas para o resumo de modificaçoes)
+* esc esc q: para 
+git log - mostra os logs de commits
+git branch - exibe branches disponíveis
+git branch "nome-branch-nova" - criar nova branch
+git checkout "nome-da-branch" - acessa a branch especificada
+* git checkout -b "nome-branch-nova" - cria  e acessa uma branch = git branch + checkout
+
+
+cd [nomedapasta]/ - entra na pastas
+touch - cria arquivos
+mkdir - cria pastas
