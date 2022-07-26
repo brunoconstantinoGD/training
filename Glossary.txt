@@ -15,6 +15,10 @@ git branch "nome-branch-nova" - criar nova branch
 git checkout "nome-da-branch" - acessa a branch especificada
 * git checkout -b "nome-branch-nova" - cria  e acessa uma branch = git branch + checkout
 git push origin "nome-branch"
+git branch -m [nome da branch atual] - renomeia a branch
+
+git pull origin "nome-branch" - puxa as modificações do repositório remoto
+
 
 
 cd [nomedapasta]/ - entra na pastas
