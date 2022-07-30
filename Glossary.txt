@@ -19,7 +19,7 @@ git branch -m [nome da branch atual] - renomeia a branch
 
 git pull origin "nome-branch" - puxa as modificações do repositório remoto
 
-
+ 
 
 cd [nomedapasta]/ - entra na pastas
 touch - cria arquivos
